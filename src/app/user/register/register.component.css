@@ -1,0 +1,21 @@
+
+
+.RegistrationForm {
+
+  border: 4px solid rgba(204, 61, 61, 1);
+  border-radius: 15px;
+  color: white;
+  width: 40%;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.alert{
+  display: block;
+  height: 30px;
+  color: red;
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+
+}
